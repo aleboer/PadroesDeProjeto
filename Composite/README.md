@@ -34,4 +34,6 @@
     - Manipula os objetos da composição via interface Component
     
  - Sample Code:
+    - [Código](https://github.com/aleboer/PadroesDeProjeto/blob/master/Composite/CompositeExemplo/src/Main.java)
+    - Para exemplificar o padrão composite usei o exemplo do professor João Cunha em sala de aula e implementei um programa que cálcula o saldo do cliente levando em conta todas as suas contas (Corrente e poupança).
  
