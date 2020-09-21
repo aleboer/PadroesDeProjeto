@@ -16,7 +16,8 @@
   - O Composite deve ser utilizado quando a aplicação possui alguma estrutura hierárquica e quer funcionalidades genéricas por toda a estrutura.
 
 * Structure
-  - O Composite tem uma estrutúra em arvore. Cada componente da mesma é explicado abaixo.
+  
+  ![Composite](https://user-images.githubusercontent.com/31738300/93829660-82c2c680-fc44-11ea-8d80-69a9ca5b250e.png)
   
 * Participants:
   - Component:
