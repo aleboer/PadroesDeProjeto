@@ -17,23 +17,16 @@
 
 * Structure
   
-  ![Observer](https://user-images.githubusercontent.com/31738300/93829660-82c2c680-fc44-11ea-8d80-69a9ca5b250e.png)
+  ![observer](https://user-images.githubusercontent.com/31738300/97812836-01a71800-1c63-11eb-8db4-ca240b06339e.png)
   
 * Participants:
-  - Component:
-    - Declara interface para objetos da composição
-    - Implementa comportamentos padrão comuns para todas as classes
-    - Declara uma interface para acessar e gerenciar componentes filho
-  - Leaf:
-    - Representa objetos folha da consição que não tem filhos
-    - Define o comportamento para objetos primitivos da composição
-  - Composite:
-    - Define o comportamento para componentes que possuem filhos
-    - Armazena componentes filhos
-    - Implementa operações relacionadas a filhos e definidas na interface Component
-  - Client:
-    - Manipula os objetos da composição via interface Component
+  - Subject:
+    - Classe que possui a informação do estado que se deseja observar.
+  - Observer:
+    - Interface que define os métodos de notificação de interesse dos observadores.
+  - ConcreteObserverA, ConcreteObserverB:
+    - Classes concretas que observam a classe Subject.
     
  - Sample Code:
     - [Código](https://github.com/aleboer/PadroesDeProjeto/tree/master/Composite/CompositeExemplo/src)
-    - Para exemplificar o padrão composite usei o exemplo do professor João Cunha em sala de aula e implementei um programa que cálcula o saldo do cliente levando em conta todas as suas contas (Corrente e poupança).
+    - 
