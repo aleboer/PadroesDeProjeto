@@ -4,3 +4,7 @@ Este repositório tem como objetivo descrever os padrões de projetos estudados 
 - [Composite](https://github.com/aleboer/PadroesDeProjeto/tree/master/Composite)
 
 - [TemplateMethod](https://github.com/aleboer/PadroesDeProjeto/tree/master/TemplateMethods)
+
+- [Memento](https://github.com/aleboer/PadroesDeProjeto/tree/master/Memento)
+
+- [Observer](https://github.com/aleboer/PadroesDeProjeto/tree/master/Oberserver)
