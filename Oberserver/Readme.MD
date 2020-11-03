@@ -28,5 +28,4 @@
     - Classes concretas que observam a classe Subject.
     
  - Sample Code:
-    - [Código](https://github.com/aleboer/PadroesDeProjeto/tree/master/Composite/CompositeExemplo/src)
-    - 
+    - [Código](https://github.com/aleboer/PadroesDeProjeto/blob/master/Oberserver/ObserverExemplo/Main.java)
