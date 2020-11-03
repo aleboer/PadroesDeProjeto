@@ -27,4 +27,4 @@
     - classe auxiliar responsável por armazenar restaurar o estado do Originador por meio do objeto Memento. Um objeto Caretaker mantém os Mementos, mas nunca modifica os Mementos.
     
  - Sample Code:
-    - [Código](https://github.com/aleboer/PadroesDeProjeto/blob/master/Oberserver/ObserverExemplo/Main.java)
+    - [Código](https://github.com/aleboer/PadroesDeProjeto/blob/master/Memento/MementoExemplo/Main.java)
